@@ -2,11 +2,11 @@
 "storeHouse": [
 {
    "sourceName": "正经仓库",
-    "sourceUrl": "clan://localhost/duoduo/1.txt"
+    "sourceUrl": "https://raw.githubusercontent.com/xiaojia11252/duocang/main/1.json"
 }, 
 {
     "sourceName": "学习仓库",
-    "sourceUrl": "clan://localhost/duoduo/2.txt"
+    "sourceUrl": "https://raw.githubusercontent.com/xiaojia11252/duocang/main/2.json"
   }
   ]
 }
