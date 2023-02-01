@@ -1,0 +1,12 @@
+{ 
+"storeHouse": [
+{
+   "sourceName": "正经仓库",
+    "sourceUrl": "clan://localhost/duoduo/1.txt"
+}, 
+{
+    "sourceName": "学习仓库",
+    "sourceUrl": "clan://localhost/duoduo/2.txt"
+  }
+  ]
+}
